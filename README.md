@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rajeshwari Datti 👋
 
-<!--
-**rajeshwaridatti3-coder/rajeshwaridatti3-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Full Stack Web Developer passionate about building responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React JS
+- Node JS
+- Express JS
+- SQLite
+
+## Featured Projects
+- AI Study Assistant
+- E-Commerce Website
+- Wikipedia Search Application
+- To-Do Application
+- Theme Switcher
+
+## Connect With Me
+- GitHub: https://github.com/rajeshwaridatti3-coder
+- LinkedIn: https://www.linkedin.com/in/rajeshwaridatti/
